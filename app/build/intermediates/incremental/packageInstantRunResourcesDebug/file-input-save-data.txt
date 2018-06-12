@@ -1,0 +1,12 @@
+#Internal package file, do not edit.
+#Tue Jun 12 18:57:55 CST 2018
+1.base=/home/darren/work/code/github/test/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/darren/work/code/github/test/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.base=/home/darren/work/code/github/test/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+2.file=/home/darren/work/code/github/test/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+count=3
+1.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
+0.base=/home/darren/work/code/github/test/app/build/intermediates/res/resources-debug.ap_
+0.file=/home/darren/work/code/github/test/app/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png

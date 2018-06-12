@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:3:11-46
+		INJECTED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:4:3-11:17
+	android:label
+		ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:4:46-78
+	android:icon
+		ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:4:16-45
+activity#com.github.pvoid.crashpin.TestActivity
+ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:5:5-10:16
+	android:label
+		ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:5:44-70
+	android:name
+		ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:5:15-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:6:7-9:23
+action#android.intent.action.MAIN
+ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:7:9-60
+	android:name
+		ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:8:9-68
+	android:name
+		ADDED from /home/darren/work/code/github/test/app/src/main/AndroidManifest.xml:8:19-66

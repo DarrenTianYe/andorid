@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/darren/work/code/github/test/app/src/main/jniLibs"/><source path="/home/darren/work/code/github/test/app/libs"><file name="armeabi/libstdc++.a" path="/home/darren/work/code/github/test/app/libs/armeabi/libstdc++.a"/><file name="armeabi/libcrashpin.so" path="/home/darren/work/code/github/test/app/libs/armeabi/libcrashpin.so"/></source></dataSet><dataSet config="debug"><source path="/home/darren/work/code/github/test/app/src/debug/jniLibs"/></dataSet></merger>

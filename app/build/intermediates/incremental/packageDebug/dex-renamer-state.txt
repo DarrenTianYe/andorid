@@ -1,0 +1,7 @@
+#Tue Jun 12 19:50:45 CST 2018
+base.0=/home/darren/work/code/github/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c37547c77383e4e92f5b4ed5332ba4610ef75b6c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/darren/work/code/github/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_852aea2b406cbec4d93d9b149c03badd9d5307da/classes.dex
+base.1=/home/darren/work/code/github/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_852aea2b406cbec4d93d9b149c03badd9d5307da
+file.0=/home/darren/work/code/github/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c37547c77383e4e92f5b4ed5332ba4610ef75b6c/classes.dex

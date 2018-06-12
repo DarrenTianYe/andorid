@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/darren/work/code/github/test/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/darren/work/code/github/test/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 2,
+                        "startOffset": 14,
+                        "endColumn": 43,
+                        "endOffset": 55
+                    }
+                }
+            }
+        ]
+    }
+]
